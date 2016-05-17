@@ -1,3 +1,6 @@
-var higherorder = require('./HigherOrder');
+var x = process.env.Secret;
 
-higherorder(function (){ console.log('HelloWorld');},5);
+function secretBypass(){
+	console.log(x);
+}
+secretBypass();
