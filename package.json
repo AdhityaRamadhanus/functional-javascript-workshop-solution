@@ -1,0 +1,20 @@
+{
+  "name": "functional-javascript-workshop-solution",
+  "version": "1.0.0",
+  "description": "This is my solutions to functional javascript workshop in nodeschool, check nodeschool.io for more info.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdhityaRamadhanus/functional-javascript-workshop-solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdhityaRamadhanus/functional-javascript-workshop-solution/issues"
+  },
+  "homepage": "https://github.com/AdhityaRamadhanus/functional-javascript-workshop-solution#readme"
+}
